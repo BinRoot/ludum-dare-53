@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_alveolar_lateral_fricative.ogg-dbc84db1362218127a43cdd5c4a42d9c.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Voiceless_alveolar_lateral_fricative.ogg"
+dest_files=[ "res://.import/Voiceless_alveolar_lateral_fricative.ogg-dbc84db1362218127a43cdd5c4a42d9c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

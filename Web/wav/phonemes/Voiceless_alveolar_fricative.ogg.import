@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_alveolar_fricative.ogg-3d8c47d2e780e5825ec865f9e50b8e6f.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiceless_alveolar_fricative.ogg"
+dest_files=[ "res://.import/Voiceless_alveolar_fricative.ogg-3d8c47d2e780e5825ec865f9e50b8e6f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Bilabial_trill.ogg-0c04413f778c6c64e9923bc2c68e6482.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Bilabial_trill.ogg"
+dest_files=[ "res://.import/Bilabial_trill.ogg-0c04413f778c6c64e9923bc2c68e6482.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

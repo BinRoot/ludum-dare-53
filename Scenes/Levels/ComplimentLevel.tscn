@@ -1,0 +1,31 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Scenes/Levels/ComplimentLevel.gd" type="Script" id=1]
+[ext_resource path="res://Scenes/Levels/LevelEngine.tscn" type="PackedScene" id=2]
+[ext_resource path="res://Scenes/SpeechBubble.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Scenes/SeaSalt.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Scenes/Paprika.tscn" type="PackedScene" id=5]
+
+[node name="ComplimentLevel" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="Paprika" parent="." instance=ExtResource( 5 )]
+position = Vector2( 360, 208 )
+
+[node name="SeaSalt" parent="." instance=ExtResource( 4 )]
+position = Vector2( 880, 136 )
+
+[node name="SpeechBubble" parent="." instance=ExtResource( 3 )]
+position = Vector2( 632, 368 )
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="LevelEngine" parent="." instance=ExtResource( 2 )]
+visible = false
+goal = "look seem appear nice good outfit"
+grammar = "compliment"
+available_phonemes = [ "d", "ɵ", "ɔ", "ɢ", "q", "ʛ Uvular" ]
+
+[connection signal="on_finish_talking" from="SeaSalt" to="." method="_on_SeaSalt_on_finish_talking"]
+[connection signal="on_complete" from="LevelEngine" to="." method="_on_LevelEngine_on_complete"]
+[connection signal="on_wrong" from="LevelEngine" to="." method="_on_LevelEngine_on_wrong"]

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_uvular_plosive.ogg-33433db44941a52592a85b83f81a6934.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Voiceless_uvular_plosive.ogg"
+dest_files=[ "res://.import/Voiceless_uvular_plosive.ogg-33433db44941a52592a85b83f81a6934.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

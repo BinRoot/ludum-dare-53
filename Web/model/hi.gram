@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar hi;
+public <greeting> = hi | hello | hey | howdy | hole | ham | hug;

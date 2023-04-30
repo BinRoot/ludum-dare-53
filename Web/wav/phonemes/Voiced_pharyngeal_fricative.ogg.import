@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_pharyngeal_fricative.ogg-5d17dd80a0848c702e9a41ce9753b7b6.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiced_pharyngeal_fricative.ogg"
+dest_files=[ "res://.import/Voiced_pharyngeal_fricative.ogg-5d17dd80a0848c702e9a41ce9753b7b6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

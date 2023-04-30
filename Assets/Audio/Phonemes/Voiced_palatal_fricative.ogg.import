@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_palatal_fricative.ogg-c5414dc10b53d2dffa8b0f0ac7247935.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Voiced_palatal_fricative.ogg"
+dest_files=[ "res://.import/Voiced_palatal_fricative.ogg-c5414dc10b53d2dffa8b0f0ac7247935.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

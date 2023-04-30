@@ -1,0 +1,70 @@
+[gd_scene load_steps=10 format=2]
+
+[ext_resource path="res://LevelController.gd" type="Script" id=1]
+[ext_resource path="res://Assets/spices.png" type="Texture" id=2]
+[ext_resource path="res://Assets/chicken_02.png" type="Texture" id=3]
+[ext_resource path="res://Assets/chicken_01.png" type="Texture" id=4]
+[ext_resource path="res://Assets/chicken_03.png" type="Texture" id=5]
+[ext_resource path="res://Assets/glow.png" type="Texture" id=6]
+[ext_resource path="res://Assets/Fonts/Cookiemonster-gv11.ttf" type="DynamicFontData" id=7]
+
+[sub_resource type="SpriteFrames" id=1]
+animations = [ {
+"frames": [ ExtResource( 4 ), ExtResource( 3 ), ExtResource( 5 ) ],
+"loop": true,
+"name": "default",
+"speed": 1.0
+} ]
+
+[sub_resource type="DynamicFont" id=2]
+size = 100
+outline_size = 4
+outline_color = Color( 0, 0, 0, 1 )
+font_data = ExtResource( 7 )
+
+[node name="LevelController" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="BackgroundGlow" type="TextureRect" parent="."]
+margin_left = 464.0
+margin_top = 104.0
+margin_right = 664.0
+margin_bottom = 304.0
+rect_rotation = 48.6
+rect_scale = Vector2( 4, 4 )
+rect_pivot_offset = Vector2( 100, 100 )
+texture = ExtResource( 6 )
+
+[node name="AnimatedSprite" type="AnimatedSprite" parent="."]
+position = Vector2( 640, 416 )
+scale = Vector2( 3, 3 )
+frames = SubResource( 1 )
+frame = 2
+speed_scale = 3.0
+
+[node name="TextureRect" type="TextureRect" parent="."]
+modulate = Color( 0.478431, 0.458824, 0.458824, 1 )
+margin_left = -48.0
+margin_top = -120.0
+margin_right = 528.0
+margin_bottom = 313.0
+rect_scale = Vector2( 2, 2 )
+texture = ExtResource( 2 )
+
+[node name="LevelHolder" type="Node2D" parent="."]
+
+[node name="StartButton" type="Button" parent="."]
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+margin_left = 272.0
+margin_top = 424.0
+margin_right = 772.0
+margin_bottom = 536.0
+mouse_default_cursor_shape = 2
+custom_fonts/font = SubResource( 2 )
+text = "Tongue tied"
+flat = true
+
+[connection signal="pressed" from="StartButton" to="." method="_on_StartButton_pressed"]

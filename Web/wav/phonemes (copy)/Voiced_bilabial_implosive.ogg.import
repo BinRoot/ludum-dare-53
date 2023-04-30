@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_bilabial_implosive.ogg-f41e45930e5b95eb8a35e7cc75a4e55d.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Voiced_bilabial_implosive.ogg"
+dest_files=[ "res://.import/Voiced_bilabial_implosive.ogg-f41e45930e5b95eb8a35e7cc75a4e55d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

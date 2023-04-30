@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_dental_fricative.ogg-9516f86fc6538601406fa29219385586.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Voiceless_dental_fricative.ogg"
+dest_files=[ "res://.import/Voiceless_dental_fricative.ogg-9516f86fc6538601406fa29219385586.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

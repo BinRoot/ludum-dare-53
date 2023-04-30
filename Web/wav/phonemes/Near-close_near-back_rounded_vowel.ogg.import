@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Near-close_near-back_rounded_vowel.ogg-2bc068f0cfb8f5d6a372445f5c1710bf.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Near-close_near-back_rounded_vowel.ogg"
+dest_files=[ "res://.import/Near-close_near-back_rounded_vowel.ogg-2bc068f0cfb8f5d6a372445f5c1710bf.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

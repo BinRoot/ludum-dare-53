@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Velar_lateral_approximant.ogg-461656e59d3dff14153523d65873b6a1.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Velar_lateral_approximant.ogg"
+dest_files=[ "res://.import/Velar_lateral_approximant.ogg-461656e59d3dff14153523d65873b6a1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

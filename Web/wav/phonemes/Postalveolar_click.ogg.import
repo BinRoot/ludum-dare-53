@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Postalveolar_click.ogg-1c3755704749c041e8aec06dad2efb18.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Postalveolar_click.ogg"
+dest_files=[ "res://.import/Postalveolar_click.ogg-1c3755704749c041e8aec06dad2efb18.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

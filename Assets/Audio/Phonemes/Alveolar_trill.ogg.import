@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Alveolar_trill.ogg-77c74b5a0545020f1ea378983c36a7a6.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Alveolar_trill.ogg"
+dest_files=[ "res://.import/Alveolar_trill.ogg-77c74b5a0545020f1ea378983c36a7a6.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

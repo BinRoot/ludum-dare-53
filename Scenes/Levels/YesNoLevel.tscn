@@ -1,0 +1,29 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://Scenes/Levels/LevelEngine.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Scenes/Levels/YesNoLevel.gd" type="Script" id=2]
+[ext_resource path="res://Scenes/SpeechBubble.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Scenes/SeaSalt.tscn" type="PackedScene" id=4]
+
+[node name="YesNoLevel" type="Node2D"]
+script = ExtResource( 2 )
+
+[node name="SeaSalt" parent="." instance=ExtResource( 4 )]
+position = Vector2( 552, 344 )
+scale = Vector2( 1.5, 1.5 )
+
+[node name="SpeechBubble" parent="." instance=ExtResource( 3 )]
+position = Vector2( 512, 128 )
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 10.0
+one_shot = true
+
+[node name="LevelEngine" parent="." instance=ExtResource( 1 )]
+visible = false
+goal = "yes yea"
+grammar = "yesno"
+available_phonemes = [ "n", "j", "o", "s" ]
+
+[connection signal="on_complete" from="LevelEngine" to="." method="_on_LevelEngine_on_complete"]
+[connection signal="on_wrong" from="LevelEngine" to="." method="_on_LevelEngine_on_wrong"]

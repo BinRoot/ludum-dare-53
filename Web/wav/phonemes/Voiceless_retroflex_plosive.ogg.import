@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_retroflex_plosive.ogg-ca46ac4d99f0353e60b46da1e26d8ed8.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiceless_retroflex_plosive.ogg"
+dest_files=[ "res://.import/Voiceless_retroflex_plosive.ogg-ca46ac4d99f0353e60b46da1e26d8ed8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

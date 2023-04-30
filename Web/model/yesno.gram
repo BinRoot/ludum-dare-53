@@ -1,0 +1,6 @@
+#JSGF V1.0;
+grammar yesno;
+public <love_you> = <yes> [<sir>] | <no>;
+<yes> = yes | yea | uh yea;
+<no> = no | nope;
+<sir> = sir | sire;

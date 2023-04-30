@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Close-mid_back_rounded_vowel.ogg-2f8abbf29b07ed6a8666156fa7d78c1f.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Close-mid_back_rounded_vowel.ogg"
+dest_files=[ "res://.import/Close-mid_back_rounded_vowel.ogg-2f8abbf29b07ed6a8666156fa7d78c1f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

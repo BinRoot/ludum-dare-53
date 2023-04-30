@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_palatal_implosive.ogg-228526f841bd97bc902952c1b2127711.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Voiced_palatal_implosive.ogg"
+dest_files=[ "res://.import/Voiced_palatal_implosive.ogg-228526f841bd97bc902952c1b2127711.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

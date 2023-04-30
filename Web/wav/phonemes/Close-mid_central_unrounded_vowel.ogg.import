@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Close-mid_central_unrounded_vowel.ogg-9b594442fc008ebfb03a789ab0fd1ecb.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Close-mid_central_unrounded_vowel.ogg"
+dest_files=[ "res://.import/Close-mid_central_unrounded_vowel.ogg-9b594442fc008ebfb03a789ab0fd1ecb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

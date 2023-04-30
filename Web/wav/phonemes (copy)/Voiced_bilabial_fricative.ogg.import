@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_bilabial_fricative.ogg-dbf5cee0d65f16be917a4918314250d4.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Voiced_bilabial_fricative.ogg"
+dest_files=[ "res://.import/Voiced_bilabial_fricative.ogg-dbf5cee0d65f16be917a4918314250d4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

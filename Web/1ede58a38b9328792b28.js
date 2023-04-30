@@ -1,0 +1,1 @@
+"use strict";class GetAudioProcessor extends AudioWorkletProcessor{process(s,e,o){const r=s[0];if(0==r.length)return!0;const t=r[0];return this.port.postMessage(t),!0}}registerProcessor("getaudio-processor",GetAudioProcessor);

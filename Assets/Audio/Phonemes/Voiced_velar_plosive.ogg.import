@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_velar_plosive.ogg-1a5b14c442ad796dbc09fa8c9b031102.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Voiced_velar_plosive.ogg"
+dest_files=[ "res://.import/Voiced_velar_plosive.ogg-1a5b14c442ad796dbc09fa8c9b031102.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

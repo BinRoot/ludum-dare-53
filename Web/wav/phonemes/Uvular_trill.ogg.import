@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Uvular_trill.ogg-6c6b432ce7e8cc67c71df8780a3d0637.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Uvular_trill.ogg"
+dest_files=[ "res://.import/Uvular_trill.ogg-6c6b432ce7e8cc67c71df8780a3d0637.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

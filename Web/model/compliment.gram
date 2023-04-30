@@ -1,0 +1,7 @@
+#JSGF V1.0;
+grammar compliment;
+public <compliment> = [<pronoun>] [<verb>] <adjective>;
+<pronoun> = you;
+<verb> = look;
+<adjective> = nice | good | great | stunning | lovely | amazing | gaga;
+

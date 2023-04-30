@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Alveolar_nasal.ogg-21e4340c009e9d393ec9eba56f431d9d.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Alveolar_nasal.ogg"
+dest_files=[ "res://.import/Alveolar_nasal.ogg-21e4340c009e9d393ec9eba56f431d9d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

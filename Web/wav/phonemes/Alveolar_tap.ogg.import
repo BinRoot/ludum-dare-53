@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Alveolar_tap.ogg-3c4fa4020c5207fa0b497fae43f664d4.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Alveolar_tap.ogg"
+dest_files=[ "res://.import/Alveolar_tap.ogg-3c4fa4020c5207fa0b497fae43f664d4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

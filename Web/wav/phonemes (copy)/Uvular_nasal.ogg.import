@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Uvular_nasal.ogg-04d8619ad2d555679f37ddcf10ca35d5.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Uvular_nasal.ogg"
+dest_files=[ "res://.import/Uvular_nasal.ogg-04d8619ad2d555679f37ddcf10ca35d5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

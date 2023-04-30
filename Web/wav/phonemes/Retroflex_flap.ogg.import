@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Retroflex_flap.ogg-f5f063979027a33d88357f2ba372c8b5.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Retroflex_flap.ogg"
+dest_files=[ "res://.import/Retroflex_flap.ogg-f5f063979027a33d88357f2ba372c8b5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

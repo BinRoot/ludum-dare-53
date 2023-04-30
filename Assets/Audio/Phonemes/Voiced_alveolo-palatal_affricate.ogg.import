@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_alveolo-palatal_affricate.ogg-4ab9622c4acde04b64e4c125675b65ec.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Voiced_alveolo-palatal_affricate.ogg"
+dest_files=[ "res://.import/Voiced_alveolo-palatal_affricate.ogg-4ab9622c4acde04b64e4c125675b65ec.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

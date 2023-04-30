@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_alveolar_plosive.ogg-bb1358fe4870e3f240d894fc7228b7ab.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiceless_alveolar_plosive.ogg"
+dest_files=[ "res://.import/Voiceless_alveolar_plosive.ogg-bb1358fe4870e3f240d894fc7228b7ab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

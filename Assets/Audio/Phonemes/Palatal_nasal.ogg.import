@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Palatal_nasal.ogg-914a1a9276e94d21d463f9be40e29060.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Palatal_nasal.ogg"
+dest_files=[ "res://.import/Palatal_nasal.ogg-914a1a9276e94d21d463f9be40e29060.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

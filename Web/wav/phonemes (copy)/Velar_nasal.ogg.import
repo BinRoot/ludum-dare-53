@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Velar_nasal.ogg-9655964a3bfd4249cc098f72b1b91c79.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Velar_nasal.ogg"
+dest_files=[ "res://.import/Velar_nasal.ogg-9655964a3bfd4249cc098f72b1b91c79.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

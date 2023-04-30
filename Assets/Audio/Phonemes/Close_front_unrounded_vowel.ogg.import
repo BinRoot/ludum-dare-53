@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Close_front_unrounded_vowel.ogg-99da2b8b3d2e8f66b314b24145d63b48.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Close_front_unrounded_vowel.ogg"
+dest_files=[ "res://.import/Close_front_unrounded_vowel.ogg-99da2b8b3d2e8f66b314b24145d63b48.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

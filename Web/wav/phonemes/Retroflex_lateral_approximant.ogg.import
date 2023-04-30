@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Retroflex_lateral_approximant.ogg-a637bb512618b8562439d00eb6604ac6.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Retroflex_lateral_approximant.ogg"
+dest_files=[ "res://.import/Retroflex_lateral_approximant.ogg-a637bb512618b8562439d00eb6604ac6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

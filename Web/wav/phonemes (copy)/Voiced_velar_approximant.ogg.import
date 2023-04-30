@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_velar_approximant.ogg-0b8cae5e5a4f71df83b908f37fa4902c.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Voiced_velar_approximant.ogg"
+dest_files=[ "res://.import/Voiced_velar_approximant.ogg-0b8cae5e5a4f71df83b908f37fa4902c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

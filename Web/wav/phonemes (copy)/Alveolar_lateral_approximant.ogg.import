@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Alveolar_lateral_approximant.ogg-e6fc5371fab8df6bab084154c4e623b3.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Alveolar_lateral_approximant.ogg"
+dest_files=[ "res://.import/Alveolar_lateral_approximant.ogg-e6fc5371fab8df6bab084154c4e623b3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

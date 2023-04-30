@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_epiglottal_plosive.ogg-69d056ba0820c3b55a06c285648b6de4.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiceless_epiglottal_plosive.ogg"
+dest_files=[ "res://.import/Voiceless_epiglottal_plosive.ogg-69d056ba0820c3b55a06c285648b6de4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

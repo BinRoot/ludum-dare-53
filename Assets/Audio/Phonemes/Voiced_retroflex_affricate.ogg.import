@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_retroflex_affricate.ogg-d0713618c5292c16e8ce77cf62b69322.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Voiced_retroflex_affricate.ogg"
+dest_files=[ "res://.import/Voiced_retroflex_affricate.ogg-d0713618c5292c16e8ce77cf62b69322.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Bilabial_click.ogg-c03f946eddfd854d00c8df851762aec9.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Bilabial_click.ogg"
+dest_files=[ "res://.import/Bilabial_click.ogg-c03f946eddfd854d00c8df851762aec9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

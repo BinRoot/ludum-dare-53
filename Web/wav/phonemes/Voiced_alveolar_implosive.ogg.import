@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_alveolar_implosive.ogg-95d94405450a546aa3e9386ae1da46ab.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiced_alveolar_implosive.ogg"
+dest_files=[ "res://.import/Voiced_alveolar_implosive.ogg-95d94405450a546aa3e9386ae1da46ab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

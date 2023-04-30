@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_epiglottal_fricative.ogg-5fc67f4eccae5ba08680e300d847b7f5.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiced_epiglottal_fricative.ogg"
+dest_files=[ "res://.import/Voiced_epiglottal_fricative.ogg-5fc67f4eccae5ba08680e300d847b7f5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

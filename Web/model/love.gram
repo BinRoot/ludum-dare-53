@@ -1,0 +1,6 @@
+#JSGF V1.0;
+grammar love;
+public <love_you> = <pronoun> <verb> <object>;
+<pronoun> = i;
+<verb> = love | want;
+<object> = you | pizza;

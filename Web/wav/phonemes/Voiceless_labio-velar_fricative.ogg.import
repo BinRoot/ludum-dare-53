@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_labio-velar_fricative.ogg-966c19b2454537c2b818a00ba444a112.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiceless_labio-velar_fricative.ogg"
+dest_files=[ "res://.import/Voiceless_labio-velar_fricative.ogg-966c19b2454537c2b818a00ba444a112.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

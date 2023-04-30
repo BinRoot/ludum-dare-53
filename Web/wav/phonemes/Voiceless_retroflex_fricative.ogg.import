@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_retroflex_fricative.ogg-e4dd88bd182390e9aeb598eefeeb7c00.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiceless_retroflex_fricative.ogg"
+dest_files=[ "res://.import/Voiceless_retroflex_fricative.ogg-e4dd88bd182390e9aeb598eefeeb7c00.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

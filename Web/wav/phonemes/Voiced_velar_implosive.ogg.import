@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_velar_implosive.ogg-59fc547fb7499c5371ae59cf33cc2309.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiced_velar_implosive.ogg"
+dest_files=[ "res://.import/Voiced_velar_implosive.ogg-59fc547fb7499c5371ae59cf33cc2309.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

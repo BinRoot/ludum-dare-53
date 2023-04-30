@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiced_glottal_fricative.ogg-ec7cefae7506380ce240b3e96d88067c.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Voiced_glottal_fricative.ogg"
+dest_files=[ "res://.import/Voiced_glottal_fricative.ogg-ec7cefae7506380ce240b3e96d88067c.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

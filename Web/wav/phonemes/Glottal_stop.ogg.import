@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Glottal_stop.ogg-713c248c6a0d79ef90e0cac205c23848.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Glottal_stop.ogg"
+dest_files=[ "res://.import/Glottal_stop.ogg-713c248c6a0d79ef90e0cac205c23848.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

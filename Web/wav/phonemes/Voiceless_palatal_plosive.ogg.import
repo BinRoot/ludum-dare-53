@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_palatal_plosive.ogg-30493365b991b796043911a617a875d7.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Voiceless_palatal_plosive.ogg"
+dest_files=[ "res://.import/Voiceless_palatal_plosive.ogg-30493365b991b796043911a617a875d7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

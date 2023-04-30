@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Labiodental_nasal.ogg-bda7cde0648cef343aa82ac5c037ae28.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Labiodental_nasal.ogg"
+dest_files=[ "res://.import/Labiodental_nasal.ogg-bda7cde0648cef343aa82ac5c037ae28.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

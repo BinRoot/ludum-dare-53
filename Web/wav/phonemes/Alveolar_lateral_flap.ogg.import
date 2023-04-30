@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Alveolar_lateral_flap.ogg-a94fe2608622b19b24104c3dbd06a607.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Alveolar_lateral_flap.ogg"
+dest_files=[ "res://.import/Alveolar_lateral_flap.ogg-a94fe2608622b19b24104c3dbd06a607.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

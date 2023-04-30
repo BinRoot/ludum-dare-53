@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Labiodental_approximant.ogg-fb0740971c26c2012fc9655d505adaf3.oggstr"
+
+[deps]
+
+source_file="res://Assets/Audio/Phonemes/Labiodental_approximant.ogg"
+dest_files=[ "res://.import/Labiodental_approximant.ogg-fb0740971c26c2012fc9655d505adaf3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

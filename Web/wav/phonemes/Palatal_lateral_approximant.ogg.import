@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Palatal_lateral_approximant.ogg-0103e229603929abcb8e6897b69af44b.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Palatal_lateral_approximant.ogg"
+dest_files=[ "res://.import/Palatal_lateral_approximant.ogg-0103e229603929abcb8e6897b69af44b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

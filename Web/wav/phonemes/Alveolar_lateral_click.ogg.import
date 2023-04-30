@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Alveolar_lateral_click.ogg-3d86bd2ad498a78c2bed070a8924882a.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Alveolar_lateral_click.ogg"
+dest_files=[ "res://.import/Alveolar_lateral_click.ogg-3d86bd2ad498a78c2bed070a8924882a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

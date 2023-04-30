@@ -1,0 +1,32 @@
+[gd_scene load_steps=6 format=2]
+
+[ext_resource path="res://Scenes/Levels/LevelEngine.tscn" type="PackedScene" id=1]
+[ext_resource path="res://Scenes/Levels/EmmaLevel.gd" type="Script" id=2]
+[ext_resource path="res://Scenes/SpeechBubble.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Scenes/SeaSalt.tscn" type="PackedScene" id=4]
+[ext_resource path="res://Scenes/Paprika.tscn" type="PackedScene" id=5]
+
+[node name="EmmaLevel" type="Node2D"]
+script = ExtResource( 2 )
+
+[node name="Paprika" parent="." instance=ExtResource( 5 )]
+position = Vector2( 184, 344 )
+scale = Vector2( 1.25, 1.25 )
+
+[node name="SeaSalt" parent="." instance=ExtResource( 4 )]
+position = Vector2( 896, 120 )
+
+[node name="Timer" type="Timer" parent="."]
+
+[node name="SpeechBubble" parent="." instance=ExtResource( 3 )]
+position = Vector2( 432, 128 )
+
+[node name="LevelEngine" parent="." instance=ExtResource( 1 )]
+visible = false
+goal = "emma"
+grammar = "emma"
+available_phonemes = [ "ɱ", "m", "e", "ɑ", "ʍ Voiceless labial-velar fricative", "a", "ä", "æ" ]
+
+[connection signal="on_finish_talking" from="SeaSalt" to="." method="_on_SeaSalt_on_finish_talking"]
+[connection signal="on_complete" from="LevelEngine" to="." method="_on_LevelEngine_on_complete"]
+[connection signal="on_wrong" from="LevelEngine" to="." method="_on_LevelEngine_on_wrong"]

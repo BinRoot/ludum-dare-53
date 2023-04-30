@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Palatoalveolar_click.ogg-73232fa47ecf26a61d68d20b788b325a.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Palatoalveolar_click.ogg"
+dest_files=[ "res://.import/Palatoalveolar_click.ogg-73232fa47ecf26a61d68d20b788b325a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

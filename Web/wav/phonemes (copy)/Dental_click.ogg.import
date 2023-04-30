@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Dental_click.ogg-e0fe5780c3a8ca3ee110ba27013d4d43.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Dental_click.ogg"
+dest_files=[ "res://.import/Dental_click.ogg-e0fe5780c3a8ca3ee110ba27013d4d43.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

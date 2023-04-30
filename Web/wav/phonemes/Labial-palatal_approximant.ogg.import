@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Labial-palatal_approximant.ogg-b73a6b579c8af0e6923235b9cfd14a00.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes/Labial-palatal_approximant.ogg"
+dest_files=[ "res://.import/Labial-palatal_approximant.ogg-b73a6b579c8af0e6923235b9cfd14a00.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

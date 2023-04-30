@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Voiceless_alveolar_affricate.ogg-11b21b9abb7b2e5f9bc911f02952d968.oggstr"
+
+[deps]
+
+source_file="res://Web/wav/phonemes (copy)/Voiceless_alveolar_affricate.ogg"
+dest_files=[ "res://.import/Voiceless_alveolar_affricate.ogg-11b21b9abb7b2e5f9bc911f02952d968.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
